@@ -1,7 +1,7 @@
 # Information Retrieval System
 
 # IR_1
-Parsing and indexing html documents in a given folder recursively and list all parsed files.
+Parsing and indexing html documents in a given folder recursively and listing all parsed files.
 
 # How to Run
 We have added few html docs downloaded from https://www.gutenberg.org/ to make it easier to test which can be found in the sites folder.
